@@ -20,7 +20,6 @@ namespace Outfitters
         public Form1()
         {
             InitializeComponent();
-            file = new FileInfo(@"C:\Users\Qasim\Desktop\Outfitters\Log.txt");
             //file = new FileInfo(@"your directory pathname);
 
         }

@@ -21,7 +21,7 @@ namespace Outfitters
         {
             InitializeComponent();
             dataAccess = new DataAccess();
-            file = new FileInfo(@"C:\Users\Qasim\Desktop\Outfitters\Log.txt");
+            //file = new FileInfo(@"your directory pathname);
         }
 
         private void button1_Click(object sender, EventArgs e)
